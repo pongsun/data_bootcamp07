@@ -1,2 +1,2 @@
 select * from customers
-where coutry = 'USA'
+where coutry = 'USA';
